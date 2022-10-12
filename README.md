@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Lys!</h1>
+<h1 align="center">Hi, I'm Lys!</h1>
 <h3 align="center">Brazilian backend dev and TTRPG enthusiast.</h3>
-
+![alt text](https://i.pinimg.com/originals/82/a2/1e/82a21e9a4f28efa38aaa2edc40c9fa77.gif)
 - 🔭 I’m currently studying at [IF Goiano](ifgoiano.edu.br)
 
 - 🌱 I’m currently learning **Spring, React Native, and Node**
 
-- 💬 My pronouns are he/him [pronouns.page/@lisia](pronouns.page/@lisia)
+- 💬 My pronouns are he/him! [pronouns.page/@lisia](pronouns.page/@lisia)
 
-- 📫 How to reach me **lisiamariabt@gmail.com**
+- 📫 How to reach me: **lisiamariabt@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/lisia-becker/](www.linkedin.com/in/lisia-becker/)
+- 📄 Know about my experiences: [www.linkedin.com/in/lisia-becker/](www.linkedin.com/in/lisia-becker/)
 
-- ⚡ Fun fact **I love Monster (the energy drink)**
+- ⚡ Fun fact: **I love Monster (the energy drink)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
