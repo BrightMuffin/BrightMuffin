@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/564x/6a/ca/9f/6aca9ff3b26416e8ce0950630d1bd279.jpg" height: 50% width: 50% title="hover text">
 </p>
-<h3 align="center">
  I’m currently studying at [IF Goiano](ifgoiano.edu.br)
   <br>
  I’m currently learning Spring, React Native, and Node
@@ -14,7 +13,6 @@
   <br>
  Know about my experiences: [My LinkedIn](www.linkedin.com/in/lisia-becker/)
   <br>
-</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
