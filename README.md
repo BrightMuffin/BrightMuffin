@@ -8,13 +8,12 @@
 
 - 🌱 I’m currently learning **Spring, React Native, and Node**
 
-- 💬 My pronouns are he/him [pronouns.page/@lisia](pronouns.page/@lisia)
+- 💬 My pronouns are he/him! [pronouns.page/@lisia](pronouns.page/@lisia)
 
-- 📫 How to reach me **lisiamariabt@gmail.com**
+- 📫 How to reach me: **lisiamariabt@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/lisia-becker/](www.linkedin.com/in/lisia-becker/)
+- 📄 Know about my experiences: [www.linkedin.com/in/lisia-becker/](www.linkedin.com/in/lisia-becker/)
 
-- ⚡ Fun fact **I love Monster (the energy drink)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
