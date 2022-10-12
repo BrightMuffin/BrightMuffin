@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Lys!</h1>
 <h3 align="center">Brazilian backend dev and TTRPG enthusiast.</h3>
-https://tenor.com/992S.gif
+<p align="center">
+  <img src="https://tenor.com/view/cockroach-dancing-spin-gif-14775884" title="hover text">
+</p>
 - 🔭 I’m currently studying at [IF Goiano](ifgoiano.edu.br)
 
 - 🌱 I’m currently learning **Spring, React Native, and Node**
