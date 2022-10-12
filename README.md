@@ -4,15 +4,11 @@
   <img src="https://i.pinimg.com/564x/6a/ca/9f/6aca9ff3b26416e8ce0950630d1bd279.jpg" height: 50% width: 50% title="hover text">
 </p>
 <h3 align="center">
--  I’m currently studying at [IF Goiano](ifgoiano.edu.br)
-
--  I’m currently learning **Spring, React Native, and Node**
-
--  My pronouns are he/him! [pronouns.page/@lisia](pronouns.page/@lisia)
-
--  How to reach me: **lisiamariabt@gmail.com**
-
--  Know about my experiences: [www.linkedin.com/in/lisia-becker/](www.linkedin.com/in/lisia-becker/)
+ I’m currently studying at [IF Goiano](ifgoiano.edu.br)
+ I’m currently learning **Spring, React Native, and Node**
+ My pronouns are he/him! [pronouns.page/@lisia](pronouns.page/@lisia)
+ How to reach me: **lisiamariabt@gmail.com**
+ Know about my experiences: [www.linkedin.com/in/lisia-becker/](www.linkedin.com/in/lisia-becker/)
 </h3>
 
 <h3 align="center">Connect with me:</h3>
