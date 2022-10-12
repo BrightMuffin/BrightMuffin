@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lys!</h1>
 <h3 align="center">Brazilian backend dev and TTRPG enthusiast.</h3>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/72/86/9c/72869ce82ddf50c2a5556999a6b822a9.png" title="hover text">
+  <img src="https://i.pinimg.com/564x/6a/ca/9f/6aca9ff3b26416e8ce0950630d1bd279.jpg" height: 50% width: 50% title="hover text">
 </p>
 
 - 🔭 I’m currently studying at [IF Goiano](ifgoiano.edu.br)
