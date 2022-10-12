@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Lys!</h1>
 <h3 align="center">Brazilian backend dev and TTRPG enthusiast.</h3>
-![alt text](https://i.pinimg.com/originals/82/a2/1e/82a21e9a4f28efa38aaa2edc40c9fa77.gif)
+https://tenor.com/992S.gif
 - 🔭 I’m currently studying at [IF Goiano](ifgoiano.edu.br)
 
 - 🌱 I’m currently learning **Spring, React Native, and Node**
