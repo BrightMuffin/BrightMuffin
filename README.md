@@ -5,10 +5,15 @@
 </p>
 <h3 align="center">
  I’m currently studying at [IF Goiano](ifgoiano.edu.br)
+  <br>
  I’m currently learning **Spring, React Native, and Node**
+  <br>
  My pronouns are he/him! [pronouns.page/@lisia](pronouns.page/@lisia)
+  <br>
  How to reach me: **lisiamariabt@gmail.com**
+  <br>
  Know about my experiences: [www.linkedin.com/in/lisia-becker/](www.linkedin.com/in/lisia-becker/)
+  <br>
 </h3>
 
 <h3 align="center">Connect with me:</h3>
