@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Lys!</h1>
-<h3 align="center">Brazilian backend dev and TTRPG enthusiast.</h3>
+<h3 align="center">Brazilian dev student and TTRPG enthusiast.</h3>
 <p align="center">
   <img src="https://i.pinimg.com/564x/6a/ca/9f/6aca9ff3b26416e8ce0950630d1bd279.jpg" height: 50% width: 50% title="hover text">
 </p>
 
-- 🔭 I’m currently studying at [IF Goiano](ifgoiano.edu.br)
+- 🔭 I’m currently studying at UEG - UNU Trindade
 
 - 🌱 I’m currently learning **Spring, React Native, and Node**
-
-- 💬 My pronouns are he/him! [pronouns.page/@lisia](pronouns.page/@lisia)
 
 - 📫 How to reach me: **lisiamariabt@gmail.com**
 
