@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently studying at UEG - UNU Trindade
 
-- 🌱 I’m currently learning **Spring, React Native, and Node**
+- 🌱 I’m currently learning **C and C++**
 
 - 📫 How to reach me: **lisiamariabt@gmail.com**
-
-- 📄 Know about my experiences: [www.linkedin.com/in/lisia-becker/](www.linkedin.com/in/lisia-becker/)
 
 
 <h3 align="left">Connect with me:</h3>
